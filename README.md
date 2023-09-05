@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">interested in machine learning</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fwalter-white-cooking-gif-25702406&psig=AOvVaw2nseAkjvpg8iCbDcaNcu8S&ust=1694019778072000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCsxsr5k4EDFQAAAAAdAAAAABAE">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavjangra29&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavjangra29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavjangra29" alt="abhinavjangra29" /></a> </p>
